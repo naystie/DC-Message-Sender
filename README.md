@@ -3,9 +3,11 @@ This Python script allows you to send messages to a Discord channel at specified
 
 
 ## Requirements
+```
 Python 3.x
 requests library
 colorama library
+```
 
 ## Installation
 **1.** Clone this repository to your computer or download it as a ZIP file.
