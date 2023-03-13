@@ -1,4 +1,6 @@
-# Discord Message Sender
+```ini
+#[Yazıyı bu kısma yazınız.]
+```
 This Python script allows you to send messages to a Discord channel at specified intervals.
 
 
