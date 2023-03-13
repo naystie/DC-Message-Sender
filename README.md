@@ -37,7 +37,7 @@ open run.bat file
 
 
 **2.** Enter the channel ID, the message to send, and the message sending interval (in seconds).
-
+###
 **3.** The script will send the message at the specified intervals. Press CTRL+C to stop the process.
 
 ## Note
