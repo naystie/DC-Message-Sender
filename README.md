@@ -30,7 +30,7 @@ py mes.py
 or (for windows)
 ```py
 
-open run.bat
+open run.bat file
 
 ```
 
