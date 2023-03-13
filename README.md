@@ -13,8 +13,8 @@ colorama library
 
 ```py
 
-pip install requests
-pip install colorama
+**pip install requests**
+**pip install colorama**
 
 ```
 **3.** Create a file named token.txt and save your Discord bot's access token in this file.
@@ -24,13 +24,13 @@ pip install colorama
 
 ```py
 
-py mes.py
+**py mes.py**
 
 ```
 or (for windows)
 ```py
 
-run.bat
+open **run.bat**
 
 ```
 
