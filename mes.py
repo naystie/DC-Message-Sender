@@ -28,7 +28,7 @@ class Exploit:
 
 
 def main():
-    print(f'{Fore.BLUE}Welcome to the Discord Message Sender!{Style.RESET_ALL}\n')
+    print(f'{Fore.CYAN}Welcome to the Discord Message Sender!{Style.RESET_ALL}\n')
 
     token_file = 'token.txt'
 
