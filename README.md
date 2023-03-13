@@ -9,6 +9,7 @@ colorama library
 
 ## Installation
 **1.** Clone this repository to your computer or download it as a ZIP file.
+
 **2.** Install the requirements by running the following commands:
 
 ```py
