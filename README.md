@@ -27,7 +27,13 @@ pip install colorama
 py mes.py
 
 ```
-or run **run.bat** (for windows)
+or (for windows)
+```py
+
+run.bat
+
+```
+
 
 **2.** Enter the channel ID, the message to send, and the message sending interval (in seconds).
 **3.** The script will send the message at the specified intervals. Press CTRL+C to stop the process.
