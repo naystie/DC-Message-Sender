@@ -20,7 +20,7 @@ pip install requests
 pip install colorama
 
 ```
-**3.** Create a file named token.txt and save your Discord bot's access token in this file.
+**3.** Create a file named token.txt and save your Discord access token in this file.
 
 ## Usage
 **1.** Create a file named token.txt and copy your Discord bot's token into it.
