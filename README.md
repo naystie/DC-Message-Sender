@@ -23,7 +23,9 @@ pip install colorama
 **3.** Create a file named token.txt and save your Discord bot's access token in this file.
 
 ## Usage
-**1.** Run the script in the command prompt:
+**1.** Create a file named token.txt and copy your Discord bot's token into it.
+
+**2.** Run the script in the command prompt:
 
 ```py
 
@@ -38,9 +40,9 @@ open run.bat file
 ```
 
 
-**2.** Enter the channel ID, the message to send, and the message sending interval (in seconds).
+**3.** Enter the channel ID, the message to send, and the message sending interval (in seconds).
 ###
-**3.** The script will send the message at the specified intervals. Press CTRL+C to stop the process.
+**4.** The script will send the message at the specified intervals. Press CTRL+C to stop the process.
 
 ## Note
 This script may exceed Discord API limits and lead to the ban of your Discord account or bot. Before using this script, read the Discord API rules and limitations and try to stay under these limits.
